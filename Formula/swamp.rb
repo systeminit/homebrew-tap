@@ -6,22 +6,22 @@ class Swamp < Formula
   on_macos do
     on_intel do
       url "https://artifacts.systeminit.com/swamp/#{version}/binary/darwin/x86_64/swamp-#{version}-binary-darwin-x86_64.tar.gz"
-      sha256 "5d08394bb17366121866a6622d8489898524b96a88b504813a4883a4ff937b06"
+      sha256 "21f22d04eb3123e86423d36c2128fdef8776750e8bc0be2ec18df1b78749e617"
     end
     on_arm do
       url "https://artifacts.systeminit.com/swamp/#{version}/binary/darwin/aarch64/swamp-#{version}-binary-darwin-aarch64.tar.gz"
-      sha256 "f416a394c41a0663a150646565eb0fa8ee8a624af2d619feeafc1f5d352ca493"
+      sha256 "eca2640f589ce95d672706bb29bf9335f3965aa50a5c3da59b6a7893f9609753"
     end
   end
 
   on_linux do
     on_intel do
       url "https://artifacts.systeminit.com/swamp/#{version}/binary/linux/x86_64/swamp-#{version}-binary-linux-x86_64.tar.gz"
-      sha256 "ab4e657e0bd51c37f45f1fe9866e8dfb787aea2057e8940a932d3668788e2fed"
+      sha256 "daba0feda3afcc1698e337e03b62a31822f3821d52169049d6cdcdefc85a1d03"
     end
     on_arm do
       url "https://artifacts.systeminit.com/swamp/#{version}/binary/linux/aarch64/swamp-#{version}-binary-linux-aarch64.tar.gz"
-      sha256 "61a16d4ba391fe24fbf2f6ba7a2b42dff3a850c6394e7d8e84a5aa36cec74c7e"
+      sha256 "5ee72383974e481e50bba229deb430f4b47f0626c8c55a26b652fead663c48df"
     end
   end
 
