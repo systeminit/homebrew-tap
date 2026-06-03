@@ -30,12 +30,12 @@ This tap is updated automatically on every [swamp release](https://github.com/sw
 
 ## Alternative installation methods
 
-- **Install script:** `curl -fsSL https://swamp.club/install.sh | sh`
+- **Install script:** `curl -fsSL https://swamp-club.com/install.sh | sh`
 - **Direct download:** [GitHub Releases](https://github.com/swamp-club/swamp/releases)
 - **Built-in updater:** `swamp update`
 
 ## Links
 
 - [swamp on GitHub](https://github.com/swamp-club/swamp)
-- [swamp.club](https://swamp.club)
+- [swamp-club.com](https://swamp-club.com)
 - [Discord](https://discord.gg/swamp-club)
